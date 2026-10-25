@@ -1,0 +1,11 @@
+body{
+    background-color: lightgrey;
+
+}
+.container{
+    width: auto;
+}
+.tab{
+    display: flex;
+    flex-direction: row;
+}

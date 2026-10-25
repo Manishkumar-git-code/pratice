@@ -1,0 +1,23 @@
+.container{
+    background-color: rgb(224, 148, 148);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    
+}
+.containe{
+    background-color: wheat;
+   
+    
+    height: 100px;
+    width: 300px;
+     border-color: rgb(52, 31, 194);
+      border-width: 5px;
+      border-radius: 10px;
+      
+
+}
+.containe p{   
+text-align: center;
+}
